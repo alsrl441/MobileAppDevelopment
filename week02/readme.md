@@ -1,10 +1,6 @@
 # 2주차
 ### 과제: 교재 79페이지 11번 예제 (네이버 대신 본인의 깃허브 주소 링크 걸기)
-<style>
-  .box {
-    display: inline;
-  }
-</style>
+
 <div>
   <div class="box">
     <div>메인 화면:</div>
@@ -19,3 +15,8 @@
     <div><img src="https://github.com/alsrl441/MobileAppDevelopment/assets/128763318/f63f2348-4795-4ab7-b638-59f382500852" width="30%" /></div>
   </div>
 </div>
+<style>
+  .box {
+    display: inline;
+  }
+</style>
