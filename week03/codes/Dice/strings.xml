@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="rollDice">주사위 굴리기</string>
+    <string name="roll">roll</string>
+</resources>
