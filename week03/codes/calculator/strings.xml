@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="Num1">Number 1</string>
+    <string name="Num2">Number 2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="result">Result</string>
+</resources>
